@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Трещина лобового стекла">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="280" fill="#EEF2F7"/>
+  <rect width="400" height="280" fill="url(#grid)"/>
+  
+  <g transform="translate(30,90)">
+    <path d="M10 90 C10 60 40 40 80 38 L120 10 L260 10 L300 40 C320 42 330 55 330 70 L330 90 Z" fill="none" stroke="#334155" stroke-width="3"/>
+    <line x1="10" y1="90" x2="330" y2="90" stroke="#334155" stroke-width="3"/>
+    <circle cx="90" cy="94" r="20" fill="none" stroke="#94A3B8" stroke-width="3"/>
+    <circle cx="270" cy="94" r="20" fill="none" stroke="#94A3B8" stroke-width="3"/>
+    <line x1="150" y1="12" x2="150" y2="40" stroke="#94A3B8" stroke-width="2"/>
+  </g><circle cx="175" cy="40" r="26" fill="#FEE2E2" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M167 30 L183 50 M183 30 L167 50" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(14,250)">
+    <rect width="150" height="20" rx="10" fill="#0F172A" opacity="0.85"/>
+    <text x="75" y="14" font-family="monospace" font-size="10" fill="white" text-anchor="middle" letter-spacing="1">CARPROOF.UZ</text>
+  </g>
+</svg>

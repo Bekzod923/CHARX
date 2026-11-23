@@ -1,0 +1,6316 @@
+[
+  {
+    "id": "acc_00001",
+    "vehicleId": "veh_00001",
+    "date": "2024-06-19",
+    "time": "10:00",
+    "city": "Термез",
+    "address": "Термез, ул. Амира Темура, 59",
+    "latitude": 37.23939,
+    "longitude": 67.260991,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "rear_bumper",
+      "left_front_fender",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 7180498,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00001_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00001_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00001_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.440Z",
+    "updatedAt": "2026-09-03T09:17:12.440Z"
+  },
+  {
+    "id": "acc_00002",
+    "vehicleId": "veh_00001",
+    "date": "2026-11-02",
+    "time": "12:17",
+    "city": "Карши",
+    "address": "Карши, ул. Мустакиллик, 160",
+    "latitude": 38.904711,
+    "longitude": 65.826315,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 1904147,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00002_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.440Z",
+    "updatedAt": "2026-09-03T09:17:12.440Z"
+  },
+  {
+    "id": "acc_00003",
+    "vehicleId": "veh_00003",
+    "date": "2020-04-22",
+    "time": "10:39",
+    "city": "Нукус",
+    "address": "Нукус, ул. Амира Темура, 125",
+    "latitude": 42.486507,
+    "longitude": 59.629906,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1888497,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00003_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.441Z",
+    "updatedAt": "2026-09-03T09:17:12.441Z"
+  },
+  {
+    "id": "acc_00004",
+    "vehicleId": "veh_00004",
+    "date": "2026-02-12",
+    "time": "13:38",
+    "city": "Андижан",
+    "address": "Андижан, ул. Мустакиллик, 77",
+    "latitude": 40.788157,
+    "longitude": 72.37682,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_rear_fender",
+      "windshield"
+    ],
+    "repairEstimateUzs": 10104826,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00004_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00004_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.441Z",
+    "updatedAt": "2026-09-03T09:17:12.441Z"
+  },
+  {
+    "id": "acc_00005",
+    "vehicleId": "veh_00005",
+    "date": "2026-02-20",
+    "time": "20:16",
+    "city": "Андижан",
+    "address": "Андижан, ул. Мустакиллик, 11",
+    "latitude": 40.788016,
+    "longitude": 72.316912,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "trunk",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 2528864,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00005_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00005_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.441Z",
+    "updatedAt": "2026-09-03T09:17:12.441Z"
+  },
+  {
+    "id": "acc_00006",
+    "vehicleId": "veh_00007",
+    "date": "2023-05-22",
+    "time": "22:27",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Юнусабад, 9",
+    "latitude": 39.68789,
+    "longitude": 67.001943,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "right_rear_door",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 11231027,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00006_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00006_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00007",
+    "vehicleId": "veh_00008",
+    "date": "2025-02-21",
+    "time": "19:50",
+    "city": "Карши",
+    "address": "Карши, ул. Нукус, 148",
+    "latitude": 38.862054,
+    "longitude": 65.745668,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 11690719,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00007_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00008",
+    "vehicleId": "veh_00008",
+    "date": "2023-06-05",
+    "time": "17:33",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 138",
+    "latitude": 40.414919,
+    "longitude": 71.800056,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper",
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 4074860,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00008_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00008_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00008_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00009",
+    "vehicleId": "veh_00008",
+    "date": "2023-12-10",
+    "time": "08:40",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Себзор, 55",
+    "latitude": 39.644885,
+    "longitude": 66.963428,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 11583804,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00009_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00010",
+    "vehicleId": "veh_00008",
+    "date": "2025-05-07",
+    "time": "11:58",
+    "city": "Термез",
+    "address": "Термез, ул. Юнусабад, 169",
+    "latitude": 37.248825,
+    "longitude": 67.239698,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 2296587,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00010_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00011",
+    "vehicleId": "veh_00009",
+    "date": "2024-10-06",
+    "time": "23:45",
+    "city": "Наманган",
+    "address": "Наманган, ул. Амира Темура, 68",
+    "latitude": 41.013054,
+    "longitude": 71.717448,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 1852655,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00011_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00012",
+    "vehicleId": "veh_00009",
+    "date": "2017-11-16",
+    "time": "21:23",
+    "city": "Термез",
+    "address": "Термез, ул. Юнусабад, 119",
+    "latitude": 37.183135,
+    "longitude": 67.282636,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 3110216,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00012_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00013",
+    "vehicleId": "veh_00010",
+    "date": "2025-04-03",
+    "time": "20:33",
+    "city": "Термез",
+    "address": "Термез, ул. Юнусабад, 36",
+    "latitude": 37.25403,
+    "longitude": 67.234028,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "hood",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 2762121,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00013_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00013_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00014",
+    "vehicleId": "veh_00010",
+    "date": "2025-09-06",
+    "time": "16:02",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 78",
+    "latitude": 41.264605,
+    "longitude": 69.221857,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "right_front_fender",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 9675471,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00014_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00014_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00015",
+    "vehicleId": "veh_00012",
+    "date": "2020-02-04",
+    "time": "17:19",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 152",
+    "latitude": 41.269169,
+    "longitude": 69.281253,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "roof",
+      "hood"
+    ],
+    "repairEstimateUzs": 9308411,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00015_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00015_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00016",
+    "vehicleId": "veh_00012",
+    "date": "2018-03-23",
+    "time": "20:18",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Бунёдкор, 46",
+    "latitude": 39.626259,
+    "longitude": 66.941191,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "hood",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 3084243,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00016_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00016_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00017",
+    "vehicleId": "veh_00012",
+    "date": "2022-03-27",
+    "time": "09:01",
+    "city": "Бухара",
+    "address": "Бухара, ул. Юнусабад, 153",
+    "latitude": 39.780117,
+    "longitude": 64.423783,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 2363212,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00017_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.442Z",
+    "updatedAt": "2026-09-03T09:17:12.442Z"
+  },
+  {
+    "id": "acc_00018",
+    "vehicleId": "veh_00015",
+    "date": "2019-06-20",
+    "time": "15:55",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Чиланзар, 150",
+    "latitude": 39.624015,
+    "longitude": 66.991088,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 2173771,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00018_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00019",
+    "vehicleId": "veh_00015",
+    "date": "2026-04-13",
+    "time": "16:10",
+    "city": "Наманган",
+    "address": "Наманган, ул. Амира Темура, 167",
+    "latitude": 40.998634,
+    "longitude": 71.642182,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_front_door",
+      "trunk"
+    ],
+    "repairEstimateUzs": 3019624,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00019_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00019_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00020",
+    "vehicleId": "veh_00015",
+    "date": "2026-12-10",
+    "time": "22:13",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Мустакиллик, 141",
+    "latitude": 39.625989,
+    "longitude": 66.995079,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_front_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 3418614,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00020_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00020_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00021",
+    "vehicleId": "veh_00015",
+    "date": "2018-03-08",
+    "time": "18:11",
+    "city": "Андижан",
+    "address": "Андижан, ул. Чиланзар, 48",
+    "latitude": 40.751589,
+    "longitude": 72.32282,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_front_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 2135366,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00021_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00021_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00022",
+    "vehicleId": "veh_00016",
+    "date": "2026-05-26",
+    "time": "17:05",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Бунёдкор, 68",
+    "latitude": 41.327661,
+    "longitude": 69.24805,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 11341375,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00022_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00023",
+    "vehicleId": "veh_00016",
+    "date": "2023-12-23",
+    "time": "13:36",
+    "city": "Наманган",
+    "address": "Наманган, ул. Юнусабад, 98",
+    "latitude": 40.969737,
+    "longitude": 71.64053,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "left_front_door"
+    ],
+    "repairEstimateUzs": 3190996,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00023_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00024",
+    "vehicleId": "veh_00016",
+    "date": "2022-08-08",
+    "time": "10:00",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Мустакиллик, 102",
+    "latitude": 41.335791,
+    "longitude": 69.24886,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 5884000,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00024_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00025",
+    "vehicleId": "veh_00016",
+    "date": "2024-11-25",
+    "time": "18:37",
+    "city": "Навои",
+    "address": "Навои, ул. Себзор, 116",
+    "latitude": 40.054601,
+    "longitude": 65.361003,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_front_door"
+    ],
+    "repairEstimateUzs": 8905020,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00025_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00026",
+    "vehicleId": "veh_00018",
+    "date": "2025-12-19",
+    "time": "11:36",
+    "city": "Бухара",
+    "address": "Бухара, ул. Бунёдкор, 37",
+    "latitude": 39.744014,
+    "longitude": 64.415058,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 8681805,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00026_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00027",
+    "vehicleId": "veh_00021",
+    "date": "2026-10-22",
+    "time": "21:15",
+    "city": "Андижан",
+    "address": "Андижан, ул. Амира Темура, 112",
+    "latitude": 40.787401,
+    "longitude": 72.321646,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "hood",
+      "windshield"
+    ],
+    "repairEstimateUzs": 1446584,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00027_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00027_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00028",
+    "vehicleId": "veh_00022",
+    "date": "2026-08-07",
+    "time": "23:15",
+    "city": "Карши",
+    "address": "Карши, ул. Себзор, 56",
+    "latitude": 38.879087,
+    "longitude": 65.746199,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 4975910,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00028_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00029",
+    "vehicleId": "veh_00022",
+    "date": "2026-12-02",
+    "time": "21:51",
+    "city": "Нукус",
+    "address": "Нукус, ул. Фаргона йули, 109",
+    "latitude": 42.41432,
+    "longitude": 59.623643,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 3161031,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00029_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.443Z",
+    "updatedAt": "2026-09-03T09:17:12.443Z"
+  },
+  {
+    "id": "acc_00030",
+    "vehicleId": "veh_00024",
+    "date": "2018-03-27",
+    "time": "09:07",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Себзор, 62",
+    "latitude": 41.321777,
+    "longitude": 69.258643,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "right_rear_fender",
+      "right_front_door",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 10844310,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00030_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00030_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00030_2",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.444Z",
+    "updatedAt": "2026-09-03T09:17:12.444Z"
+  },
+  {
+    "id": "acc_00031",
+    "vehicleId": "veh_00025",
+    "date": "2016-05-04",
+    "time": "10:05",
+    "city": "Нукус",
+    "address": "Нукус, ул. Мустакиллик, 72",
+    "latitude": 42.456355,
+    "longitude": 59.571916,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "trunk"
+    ],
+    "repairEstimateUzs": 2363960,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00031_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.444Z",
+    "updatedAt": "2026-09-03T09:17:12.444Z"
+  },
+  {
+    "id": "acc_00032",
+    "vehicleId": "veh_00027",
+    "date": "2019-05-14",
+    "time": "08:45",
+    "city": "Навои",
+    "address": "Навои, ул. Фаргона йули, 65",
+    "latitude": 40.040925,
+    "longitude": 65.412064,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 5991751,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00032_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00033",
+    "vehicleId": "veh_00032",
+    "date": "2023-06-18",
+    "time": "06:13",
+    "city": "Наманган",
+    "address": "Наманган, ул. Бунёдкор, 128",
+    "latitude": 41.007162,
+    "longitude": 71.677694,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "roof",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 9257213,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00033_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00033_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00034",
+    "vehicleId": "veh_00033",
+    "date": "2024-03-14",
+    "time": "09:26",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 159",
+    "latitude": 39.664119,
+    "longitude": 66.938738,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_rear_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 7756608,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00034_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00034_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00035",
+    "vehicleId": "veh_00033",
+    "date": "2023-08-18",
+    "time": "11:38",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 125",
+    "latitude": 39.69067,
+    "longitude": 66.999884,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_rear_door",
+      "left_rear_door",
+      "roof"
+    ],
+    "repairEstimateUzs": 6388620,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00035_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00035_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00035_2",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00036",
+    "vehicleId": "veh_00033",
+    "date": "2024-10-20",
+    "time": "06:51",
+    "city": "Андижан",
+    "address": "Андижан, ул. Мустакиллик, 134",
+    "latitude": 40.816303,
+    "longitude": 72.303549,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "trunk",
+      "left_front_door"
+    ],
+    "repairEstimateUzs": 3244137,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00036_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00036_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00037",
+    "vehicleId": "veh_00034",
+    "date": "2022-10-01",
+    "time": "09:46",
+    "city": "Навои",
+    "address": "Навои, ул. Чиланзар, 43",
+    "latitude": 40.056014,
+    "longitude": 65.378004,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 2370987,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00037_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00038",
+    "vehicleId": "veh_00034",
+    "date": "2015-06-22",
+    "time": "08:14",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 91",
+    "latitude": 41.309005,
+    "longitude": 69.220341,
+    "severity": "Тяжёлая",
+    "weather": "Туман",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "left_rear_door",
+      "roof"
+    ],
+    "repairEstimateUzs": 24322383,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00038_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00038_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00039",
+    "vehicleId": "veh_00036",
+    "date": "2017-06-13",
+    "time": "06:42",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Мустакиллик, 82",
+    "latitude": 41.273212,
+    "longitude": 69.257905,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 2134646,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00039_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.446Z",
+    "updatedAt": "2026-09-03T09:17:12.446Z"
+  },
+  {
+    "id": "acc_00040",
+    "vehicleId": "veh_00036",
+    "date": "2019-04-13",
+    "time": "22:15",
+    "city": "Термез",
+    "address": "Термез, ул. Амира Темура, 84",
+    "latitude": 37.267718,
+    "longitude": 67.236543,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1181242,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00040_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00041",
+    "vehicleId": "veh_00037",
+    "date": "2026-03-09",
+    "time": "17:12",
+    "city": "Карши",
+    "address": "Карши, ул. Мустакиллик, 127",
+    "latitude": 38.900551,
+    "longitude": 65.81476,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "front_bumper",
+      "roof"
+    ],
+    "repairEstimateUzs": 1385212,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00041_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00041_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00042",
+    "vehicleId": "veh_00037",
+    "date": "2025-01-24",
+    "time": "11:35",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Мустакиллик, 83",
+    "latitude": 41.285926,
+    "longitude": 69.233396,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "windshield"
+    ],
+    "repairEstimateUzs": 2823807,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00042_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00043",
+    "vehicleId": "veh_00037",
+    "date": "2024-12-01",
+    "time": "15:22",
+    "city": "Фергана",
+    "address": "Фергана, ул. Юнусабад, 104",
+    "latitude": 40.388187,
+    "longitude": 71.776801,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 3215462,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00043_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00043_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00044",
+    "vehicleId": "veh_00037",
+    "date": "2025-10-23",
+    "time": "13:13",
+    "city": "Навои",
+    "address": "Навои, ул. Себзор, 96",
+    "latitude": 40.113575,
+    "longitude": 65.41413,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "trunk"
+    ],
+    "repairEstimateUzs": 6509530,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00044_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00045",
+    "vehicleId": "veh_00039",
+    "date": "2018-05-07",
+    "time": "20:45",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Чиланзар, 165",
+    "latitude": 41.283403,
+    "longitude": 69.216099,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Лобовое столкновение на загородной трассе, повреждена силовая структура.",
+    "damagedParts": [
+      "roof",
+      "left_front_door",
+      "left_front_fender",
+      "hood"
+    ],
+    "repairEstimateUzs": 16448117,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00045_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00045_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00045_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00046",
+    "vehicleId": "veh_00039",
+    "date": "2021-12-16",
+    "time": "08:07",
+    "city": "Андижан",
+    "address": "Андижан, ул. Нукус, 157",
+    "latitude": 40.780778,
+    "longitude": 72.385615,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 10856615,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00046_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00047",
+    "vehicleId": "veh_00039",
+    "date": "2025-12-15",
+    "time": "19:39",
+    "city": "Навои",
+    "address": "Навои, ул. Амира Темура, 88",
+    "latitude": 40.115171,
+    "longitude": 65.388822,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "hood"
+    ],
+    "repairEstimateUzs": 1022988,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00047_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00048",
+    "vehicleId": "veh_00039",
+    "date": "2021-07-17",
+    "time": "23:09",
+    "city": "Карши",
+    "address": "Карши, ул. Нукус, 38",
+    "latitude": 38.860626,
+    "longitude": 65.799733,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 1203765,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00048_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.447Z",
+    "updatedAt": "2026-09-03T09:17:12.447Z"
+  },
+  {
+    "id": "acc_00049",
+    "vehicleId": "veh_00041",
+    "date": "2026-07-08",
+    "time": "21:09",
+    "city": "Нукус",
+    "address": "Нукус, ул. Бунёдкор, 124",
+    "latitude": 42.480879,
+    "longitude": 59.654353,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 2672680,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00049_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00050",
+    "vehicleId": "veh_00044",
+    "date": "2019-03-01",
+    "time": "20:16",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Себзор, 169",
+    "latitude": 39.675964,
+    "longitude": 66.966978,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "roof",
+      "hood"
+    ],
+    "repairEstimateUzs": 1336456,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00050_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00050_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00051",
+    "vehicleId": "veh_00046",
+    "date": "2024-06-04",
+    "time": "07:38",
+    "city": "Фергана",
+    "address": "Фергана, ул. Мустакиллик, 133",
+    "latitude": 40.362418,
+    "longitude": 71.765417,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 869506,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00051_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00052",
+    "vehicleId": "veh_00046",
+    "date": "2021-11-07",
+    "time": "19:41",
+    "city": "Нукус",
+    "address": "Нукус, ул. Амира Темура, 64",
+    "latitude": 42.484813,
+    "longitude": 59.647372,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "roof",
+      "windshield"
+    ],
+    "repairEstimateUzs": 2474014,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00052_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00052_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00053",
+    "vehicleId": "veh_00046",
+    "date": "2026-05-13",
+    "time": "18:27",
+    "city": "Нукус",
+    "address": "Нукус, ул. Фаргона йули, 29",
+    "latitude": 42.409479,
+    "longitude": 59.642625,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "hood"
+    ],
+    "repairEstimateUzs": 1298484,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00053_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00054",
+    "vehicleId": "veh_00046",
+    "date": "2022-06-20",
+    "time": "11:26",
+    "city": "Термез",
+    "address": "Термез, ул. Бунёдкор, 34",
+    "latitude": 37.231513,
+    "longitude": 67.308794,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "trunk"
+    ],
+    "repairEstimateUzs": 1751438,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00054_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00055",
+    "vehicleId": "veh_00047",
+    "date": "2022-07-14",
+    "time": "09:48",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Амира Темура, 52",
+    "latitude": 41.278323,
+    "longitude": 69.271862,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "left_front_door",
+      "right_rear_door",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 5536517,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00055_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00055_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00055_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00056",
+    "vehicleId": "veh_00049",
+    "date": "2026-10-28",
+    "time": "08:53",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 21",
+    "latitude": 41.025489,
+    "longitude": 71.638492,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 848629,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00056_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00057",
+    "vehicleId": "veh_00050",
+    "date": "2026-03-05",
+    "time": "19:08",
+    "city": "Бухара",
+    "address": "Бухара, ул. Себзор, 126",
+    "latitude": 39.79588,
+    "longitude": 64.434827,
+    "severity": "Тяжёлая",
+    "weather": "Дождь",
+    "description": "Лобовое столкновение на загородной трассе, повреждена силовая структура.",
+    "damagedParts": [
+      "left_rear_fender",
+      "roof"
+    ],
+    "repairEstimateUzs": 35833584,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00057_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00057_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00058",
+    "vehicleId": "veh_00051",
+    "date": "2023-09-17",
+    "time": "08:04",
+    "city": "Бухара",
+    "address": "Бухара, ул. Мустакиллик, 103",
+    "latitude": 39.810996,
+    "longitude": 64.414958,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_front_door",
+      "trunk"
+    ],
+    "repairEstimateUzs": 1648275,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00058_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00058_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.448Z",
+    "updatedAt": "2026-09-03T09:17:12.448Z"
+  },
+  {
+    "id": "acc_00059",
+    "vehicleId": "veh_00053",
+    "date": "2024-04-27",
+    "time": "10:42",
+    "city": "Фергана",
+    "address": "Фергана, ул. Чиланзар, 17",
+    "latitude": 40.387047,
+    "longitude": 71.75508,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 1067338,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00059_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00059_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00060",
+    "vehicleId": "veh_00054",
+    "date": "2023-09-01",
+    "time": "20:12",
+    "city": "Нукус",
+    "address": "Нукус, ул. Чиланзар, 8",
+    "latitude": 42.466046,
+    "longitude": 59.570752,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "front_bumper",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 4271855,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00060_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00060_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00061",
+    "vehicleId": "veh_00054",
+    "date": "2018-05-28",
+    "time": "12:36",
+    "city": "Навои",
+    "address": "Навои, ул. Чиланзар, 119",
+    "latitude": 40.087007,
+    "longitude": 65.390106,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 2937377,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00061_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00062",
+    "vehicleId": "veh_00055",
+    "date": "2023-12-06",
+    "time": "15:57",
+    "city": "Навои",
+    "address": "Навои, ул. Бунёдкор, 163",
+    "latitude": 40.08041,
+    "longitude": 65.371715,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 2778960,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00062_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00063",
+    "vehicleId": "veh_00058",
+    "date": "2023-07-17",
+    "time": "09:44",
+    "city": "Карши",
+    "address": "Карши, ул. Юнусабад, 70",
+    "latitude": 38.856293,
+    "longitude": 65.748396,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "right_rear_fender",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 7158845,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00063_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00063_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00064",
+    "vehicleId": "veh_00059",
+    "date": "2026-03-27",
+    "time": "10:28",
+    "city": "Навои",
+    "address": "Навои, ул. Бунёдкор, 100",
+    "latitude": 40.098308,
+    "longitude": 65.372527,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door",
+      "trunk"
+    ],
+    "repairEstimateUzs": 1805654,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00064_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00064_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00065",
+    "vehicleId": "veh_00059",
+    "date": "2025-06-19",
+    "time": "06:34",
+    "city": "Навои",
+    "address": "Навои, ул. Юнусабад, 87",
+    "latitude": 40.073022,
+    "longitude": 65.385785,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 4531106,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00065_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00066",
+    "vehicleId": "veh_00060",
+    "date": "2024-01-21",
+    "time": "07:05",
+    "city": "Карши",
+    "address": "Карши, ул. Чиланзар, 169",
+    "latitude": 38.82695,
+    "longitude": 65.802766,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 2792872,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00066_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00067",
+    "vehicleId": "veh_00060",
+    "date": "2019-06-12",
+    "time": "18:09",
+    "city": "Фергана",
+    "address": "Фергана, ул. Мустакиллик, 120",
+    "latitude": 40.362559,
+    "longitude": 71.778036,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "windshield",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1406776,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00067_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00067_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00068",
+    "vehicleId": "veh_00062",
+    "date": "2025-05-27",
+    "time": "20:50",
+    "city": "Фергана",
+    "address": "Фергана, ул. Фаргона йули, 27",
+    "latitude": 40.345667,
+    "longitude": 71.819231,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "front_bumper",
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 1813947,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00068_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00068_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00069",
+    "vehicleId": "veh_00063",
+    "date": "2025-02-03",
+    "time": "06:13",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Мустакиллик, 90",
+    "latitude": 39.67855,
+    "longitude": 66.938442,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door",
+      "windshield"
+    ],
+    "repairEstimateUzs": 2182262,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00069_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00069_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00070",
+    "vehicleId": "veh_00064",
+    "date": "2025-10-04",
+    "time": "08:16",
+    "city": "Фергана",
+    "address": "Фергана, ул. Бунёдкор, 32",
+    "latitude": 40.356537,
+    "longitude": 71.784214,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 2746194,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00070_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00071",
+    "vehicleId": "veh_00064",
+    "date": "2025-04-08",
+    "time": "16:36",
+    "city": "Бухара",
+    "address": "Бухара, ул. Чиланзар, 78",
+    "latitude": 39.744273,
+    "longitude": 64.409855,
+    "severity": "Тяжёлая",
+    "weather": "Туман",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "windshield",
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 15760394,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00071_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00071_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00072",
+    "vehicleId": "veh_00066",
+    "date": "2023-04-03",
+    "time": "22:43",
+    "city": "Андижан",
+    "address": "Андижан, ул. Юнусабад, 177",
+    "latitude": 40.741738,
+    "longitude": 72.386925,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "left_rear_door",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 2471598,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00072_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00072_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00073",
+    "vehicleId": "veh_00066",
+    "date": "2024-08-01",
+    "time": "22:45",
+    "city": "Термез",
+    "address": "Термез, ул. Юнусабад, 37",
+    "latitude": 37.201166,
+    "longitude": 67.239802,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 2143576,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00073_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00074",
+    "vehicleId": "veh_00066",
+    "date": "2021-08-09",
+    "time": "20:28",
+    "city": "Андижан",
+    "address": "Андижан, ул. Нукус, 135",
+    "latitude": 40.763385,
+    "longitude": 72.385994,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "right_front_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 2132365,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00074_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00074_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.449Z",
+    "updatedAt": "2026-09-03T09:17:12.449Z"
+  },
+  {
+    "id": "acc_00075",
+    "vehicleId": "veh_00067",
+    "date": "2025-09-17",
+    "time": "06:03",
+    "city": "Карши",
+    "address": "Карши, ул. Юнусабад, 48",
+    "latitude": 38.821898,
+    "longitude": 65.792201,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_front_fender",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 4374773,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00075_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00075_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.450Z",
+    "updatedAt": "2026-09-03T09:17:12.450Z"
+  },
+  {
+    "id": "acc_00076",
+    "vehicleId": "veh_00068",
+    "date": "2022-12-17",
+    "time": "16:35",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Нукус, 96",
+    "latitude": 41.281269,
+    "longitude": 69.220895,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_front_door",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 6556346,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00076_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00076_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.450Z",
+    "updatedAt": "2026-09-03T09:17:12.450Z"
+  },
+  {
+    "id": "acc_00077",
+    "vehicleId": "veh_00069",
+    "date": "2022-02-05",
+    "time": "23:30",
+    "city": "Бухара",
+    "address": "Бухара, ул. Фаргона йули, 180",
+    "latitude": 39.751052,
+    "longitude": 64.43454,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 3254226,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00077_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00077_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.450Z",
+    "updatedAt": "2026-09-03T09:17:12.450Z"
+  },
+  {
+    "id": "acc_00078",
+    "vehicleId": "veh_00070",
+    "date": "2026-10-04",
+    "time": "21:06",
+    "city": "Фергана",
+    "address": "Фергана, ул. Мустакиллик, 81",
+    "latitude": 40.417682,
+    "longitude": 71.77715,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "right_front_door",
+      "roof"
+    ],
+    "repairEstimateUzs": 2578648,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00078_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00078_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.450Z",
+    "updatedAt": "2026-09-03T09:17:12.450Z"
+  },
+  {
+    "id": "acc_00079",
+    "vehicleId": "veh_00077",
+    "date": "2024-08-07",
+    "time": "18:13",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 146",
+    "latitude": 39.659554,
+    "longitude": 66.962372,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_rear_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 1109126,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00079_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00079_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.451Z",
+    "updatedAt": "2026-09-03T09:17:12.451Z"
+  },
+  {
+    "id": "acc_00080",
+    "vehicleId": "veh_00079",
+    "date": "2020-10-25",
+    "time": "17:44",
+    "city": "Фергана",
+    "address": "Фергана, ул. Мустакиллик, 43",
+    "latitude": 40.415396,
+    "longitude": 71.771625,
+    "severity": "Тяжёлая",
+    "weather": "Ясно",
+    "description": "Лобовое столкновение на загородной трассе, повреждена силовая структура.",
+    "damagedParts": [
+      "right_front_door",
+      "front_bumper",
+      "right_rear_fender",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 28428181,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00080_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00080_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00080_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.451Z",
+    "updatedAt": "2026-09-03T09:17:12.451Z"
+  },
+  {
+    "id": "acc_00081",
+    "vehicleId": "veh_00079",
+    "date": "2023-06-06",
+    "time": "18:39",
+    "city": "Андижан",
+    "address": "Андижан, ул. Нукус, 139",
+    "latitude": 40.774264,
+    "longitude": 72.338572,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "trunk",
+      "right_rear_door",
+      "windshield"
+    ],
+    "repairEstimateUzs": 6917433,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00081_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00081_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00081_2",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.451Z",
+    "updatedAt": "2026-09-03T09:17:12.451Z"
+  },
+  {
+    "id": "acc_00082",
+    "vehicleId": "veh_00079",
+    "date": "2017-09-20",
+    "time": "16:34",
+    "city": "Бухара",
+    "address": "Бухара, ул. Себзор, 150",
+    "latitude": 39.735695,
+    "longitude": 64.429759,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof",
+      "trunk"
+    ],
+    "repairEstimateUzs": 2167622,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00082_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00082_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.451Z",
+    "updatedAt": "2026-09-03T09:17:12.451Z"
+  },
+  {
+    "id": "acc_00083",
+    "vehicleId": "veh_00082",
+    "date": "2026-03-07",
+    "time": "06:31",
+    "city": "Андижан",
+    "address": "Андижан, ул. Чиланзар, 149",
+    "latitude": 40.769746,
+    "longitude": 72.360447,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "roof",
+      "left_front_door",
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 8159615,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00083_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00083_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00083_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.451Z",
+    "updatedAt": "2026-09-03T09:17:12.451Z"
+  },
+  {
+    "id": "acc_00084",
+    "vehicleId": "veh_00082",
+    "date": "2026-04-26",
+    "time": "20:08",
+    "city": "Навои",
+    "address": "Навои, ул. Себзор, 113",
+    "latitude": 40.126295,
+    "longitude": 65.392138,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 26854386,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00084_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00084_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.452Z",
+    "updatedAt": "2026-09-03T09:17:12.452Z"
+  },
+  {
+    "id": "acc_00085",
+    "vehicleId": "veh_00082",
+    "date": "2022-04-05",
+    "time": "15:15",
+    "city": "Андижан",
+    "address": "Андижан, ул. Нукус, 112",
+    "latitude": 40.762783,
+    "longitude": 72.344766,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "trunk",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1468984,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00085_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00085_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.452Z",
+    "updatedAt": "2026-09-03T09:17:12.452Z"
+  },
+  {
+    "id": "acc_00086",
+    "vehicleId": "veh_00083",
+    "date": "2020-02-01",
+    "time": "07:21",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Нукус, 60",
+    "latitude": 41.314022,
+    "longitude": 69.249598,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "windshield",
+      "roof"
+    ],
+    "repairEstimateUzs": 2809195,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00086_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00086_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.452Z",
+    "updatedAt": "2026-09-03T09:17:12.452Z"
+  },
+  {
+    "id": "acc_00087",
+    "vehicleId": "veh_00083",
+    "date": "2021-12-05",
+    "time": "10:07",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Нукус, 70",
+    "latitude": 39.685003,
+    "longitude": 66.94873,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "left_front_door",
+      "left_front_fender",
+      "left_rear_door",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 32539639,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00087_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00087_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00087_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.452Z",
+    "updatedAt": "2026-09-03T09:17:12.452Z"
+  },
+  {
+    "id": "acc_00088",
+    "vehicleId": "veh_00083",
+    "date": "2026-05-09",
+    "time": "11:52",
+    "city": "Бухара",
+    "address": "Бухара, ул. Бунёдкор, 172",
+    "latitude": 39.754522,
+    "longitude": 64.459049,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "right_front_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 2318046,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00088_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00088_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.452Z",
+    "updatedAt": "2026-09-03T09:17:12.452Z"
+  },
+  {
+    "id": "acc_00089",
+    "vehicleId": "veh_00086",
+    "date": "2024-12-23",
+    "time": "09:15",
+    "city": "Навои",
+    "address": "Навои, ул. Нукус, 126",
+    "latitude": 40.088621,
+    "longitude": 65.377631,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 9533742,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00089_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00090",
+    "vehicleId": "veh_00086",
+    "date": "2025-03-17",
+    "time": "17:39",
+    "city": "Фергана",
+    "address": "Фергана, ул. Юнусабад, 99",
+    "latitude": 40.379746,
+    "longitude": 71.80857,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 7372639,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00090_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00090_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00091",
+    "vehicleId": "veh_00088",
+    "date": "2016-05-02",
+    "time": "11:08",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Мустакиллик, 91",
+    "latitude": 39.66508,
+    "longitude": 66.953737,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1175762,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00091_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00092",
+    "vehicleId": "veh_00088",
+    "date": "2018-12-25",
+    "time": "11:30",
+    "city": "Фергана",
+    "address": "Фергана, ул. Себзор, 167",
+    "latitude": 40.383219,
+    "longitude": 71.745674,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_fender",
+      "hood"
+    ],
+    "repairEstimateUzs": 1496585,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00092_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00092_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00093",
+    "vehicleId": "veh_00088",
+    "date": "2016-09-02",
+    "time": "15:32",
+    "city": "Бухара",
+    "address": "Бухара, ул. Нукус, 69",
+    "latitude": 39.764493,
+    "longitude": 64.465028,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 8067411,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00093_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00094",
+    "vehicleId": "veh_00090",
+    "date": "2015-11-07",
+    "time": "19:51",
+    "city": "Фергана",
+    "address": "Фергана, ул. Фаргона йули, 169",
+    "latitude": 40.38943,
+    "longitude": 71.754346,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "rear_bumper",
+      "front_bumper",
+      "roof"
+    ],
+    "repairEstimateUzs": 4615748,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00094_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00094_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00094_2",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00095",
+    "vehicleId": "veh_00090",
+    "date": "2025-12-11",
+    "time": "09:48",
+    "city": "Нукус",
+    "address": "Нукус, ул. Мустакиллик, 72",
+    "latitude": 42.436089,
+    "longitude": 59.598537,
+    "severity": "Тяжёлая",
+    "weather": "Дождь",
+    "description": "Множественное столкновение в условиях плохой видимости.",
+    "damagedParts": [
+      "front_bumper",
+      "windshield"
+    ],
+    "repairEstimateUzs": 38607860,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00095_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00095_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00096",
+    "vehicleId": "veh_00091",
+    "date": "2025-03-21",
+    "time": "23:18",
+    "city": "Термез",
+    "address": "Термез, ул. Мустакиллик, 156",
+    "latitude": 37.230362,
+    "longitude": 67.268017,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 2792376,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00096_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00097",
+    "vehicleId": "veh_00093",
+    "date": "2026-05-14",
+    "time": "09:01",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 102",
+    "latitude": 39.674761,
+    "longitude": 66.981061,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1931178,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00097_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00098",
+    "vehicleId": "veh_00093",
+    "date": "2025-07-05",
+    "time": "08:18",
+    "city": "Карши",
+    "address": "Карши, ул. Чиланзар, 76",
+    "latitude": 38.855912,
+    "longitude": 65.768928,
+    "severity": "Тяжёлая",
+    "weather": "Гололёд",
+    "description": "Лобовое столкновение на загородной трассе, повреждена силовая структура.",
+    "damagedParts": [
+      "trunk",
+      "roof",
+      "right_rear_door",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 19482101,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00098_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00098_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00098_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00099",
+    "vehicleId": "veh_00094",
+    "date": "2025-07-06",
+    "time": "23:22",
+    "city": "Термез",
+    "address": "Термез, ул. Чиланзар, 12",
+    "latitude": 37.203491,
+    "longitude": 67.296193,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "roof",
+      "right_front_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 6727282,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00099_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00099_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00099_2",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00100",
+    "vehicleId": "veh_00095",
+    "date": "2021-03-08",
+    "time": "13:16",
+    "city": "Андижан",
+    "address": "Андижан, ул. Себзор, 81",
+    "latitude": 40.778114,
+    "longitude": 72.363325,
+    "severity": "Тяжёлая",
+    "weather": "Дождь",
+    "description": "Множественное столкновение в условиях плохой видимости.",
+    "damagedParts": [
+      "right_rear_fender",
+      "front_bumper",
+      "left_front_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 19991451,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00100_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00100_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00100_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00101",
+    "vehicleId": "veh_00095",
+    "date": "2019-10-21",
+    "time": "14:03",
+    "city": "Термез",
+    "address": "Термез, ул. Себзор, 52",
+    "latitude": 37.195364,
+    "longitude": 67.291933,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "rear_bumper",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1860198,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00101_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00101_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00102",
+    "vehicleId": "veh_00095",
+    "date": "2026-06-11",
+    "time": "12:59",
+    "city": "Андижан",
+    "address": "Андижан, ул. Чиланзар, 70",
+    "latitude": 40.77575,
+    "longitude": 72.350901,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 3430081,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00102_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00103",
+    "vehicleId": "veh_00096",
+    "date": "2025-06-05",
+    "time": "11:14",
+    "city": "Андижан",
+    "address": "Андижан, ул. Фаргона йули, 150",
+    "latitude": 40.768665,
+    "longitude": 72.377393,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 9148071,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00103_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00103_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00104",
+    "vehicleId": "veh_00097",
+    "date": "2025-12-07",
+    "time": "15:34",
+    "city": "Фергана",
+    "address": "Фергана, ул. Чиланзар, 78",
+    "latitude": 40.349208,
+    "longitude": 71.758236,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "left_rear_fender",
+      "roof"
+    ],
+    "repairEstimateUzs": 3172617,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00104_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00104_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.453Z",
+    "updatedAt": "2026-09-03T09:17:12.453Z"
+  },
+  {
+    "id": "acc_00105",
+    "vehicleId": "veh_00101",
+    "date": "2025-10-03",
+    "time": "16:25",
+    "city": "Андижан",
+    "address": "Андижан, ул. Чиланзар, 66",
+    "latitude": 40.81417,
+    "longitude": 72.379049,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "trunk",
+      "left_front_fender",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 11597213,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00105_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00105_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00105_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00106",
+    "vehicleId": "veh_00101",
+    "date": "2021-06-09",
+    "time": "15:29",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 34",
+    "latitude": 39.631545,
+    "longitude": 66.979153,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 3039897,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00106_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00107",
+    "vehicleId": "veh_00102",
+    "date": "2025-06-15",
+    "time": "16:22",
+    "city": "Бухара",
+    "address": "Бухара, ул. Фаргона йули, 17",
+    "latitude": 39.809839,
+    "longitude": 64.383739,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 10392426,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00107_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00108",
+    "vehicleId": "veh_00106",
+    "date": "2019-03-02",
+    "time": "23:48",
+    "city": "Бухара",
+    "address": "Бухара, ул. Нукус, 161",
+    "latitude": 39.759097,
+    "longitude": 64.42231,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "trunk"
+    ],
+    "repairEstimateUzs": 11742987,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00108_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00109",
+    "vehicleId": "veh_00106",
+    "date": "2026-08-18",
+    "time": "13:24",
+    "city": "Наманган",
+    "address": "Наманган, ул. Амира Темура, 165",
+    "latitude": 40.988371,
+    "longitude": 71.639814,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 1592637,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00109_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00110",
+    "vehicleId": "veh_00108",
+    "date": "2025-06-14",
+    "time": "19:16",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Юнусабад, 32",
+    "latitude": 39.682818,
+    "longitude": 66.951011,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 6903075,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00110_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00110_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00111",
+    "vehicleId": "veh_00108",
+    "date": "2025-06-10",
+    "time": "23:16",
+    "city": "Термез",
+    "address": "Термез, ул. Фаргона йули, 68",
+    "latitude": 37.268331,
+    "longitude": 67.267426,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 2498188,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00111_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00111_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00112",
+    "vehicleId": "veh_00111",
+    "date": "2023-12-22",
+    "time": "12:10",
+    "city": "Бухара",
+    "address": "Бухара, ул. Фаргона йули, 5",
+    "latitude": 39.787181,
+    "longitude": 64.471179,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "windshield"
+    ],
+    "repairEstimateUzs": 2254270,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00112_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00113",
+    "vehicleId": "veh_00112",
+    "date": "2025-08-10",
+    "time": "21:57",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Амира Темура, 3",
+    "latitude": 41.331627,
+    "longitude": 69.202963,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "right_rear_door",
+      "front_bumper",
+      "windshield"
+    ],
+    "repairEstimateUzs": 8822335,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00113_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00113_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00113_2",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00114",
+    "vehicleId": "veh_00112",
+    "date": "2025-06-05",
+    "time": "10:44",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 126",
+    "latitude": 40.374476,
+    "longitude": 71.825251,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "left_rear_door",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1390066,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00114_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00114_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00115",
+    "vehicleId": "veh_00113",
+    "date": "2026-07-22",
+    "time": "16:13",
+    "city": "Нукус",
+    "address": "Нукус, ул. Амира Темура, 34",
+    "latitude": 42.468557,
+    "longitude": 59.613439,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "hood"
+    ],
+    "repairEstimateUzs": 2832874,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00115_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00116",
+    "vehicleId": "veh_00114",
+    "date": "2023-12-26",
+    "time": "23:48",
+    "city": "Нукус",
+    "address": "Нукус, ул. Юнусабад, 105",
+    "latitude": 42.408267,
+    "longitude": 59.623884,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "left_front_door",
+      "right_front_fender",
+      "windshield"
+    ],
+    "repairEstimateUzs": 8915083,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00116_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00116_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00116_2",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00117",
+    "vehicleId": "veh_00115",
+    "date": "2023-05-28",
+    "time": "07:46",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Чиланзар, 155",
+    "latitude": 39.633619,
+    "longitude": 66.978406,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "left_rear_fender",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 3297876,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00117_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00117_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.454Z",
+    "updatedAt": "2026-09-03T09:17:12.454Z"
+  },
+  {
+    "id": "acc_00118",
+    "vehicleId": "veh_00116",
+    "date": "2023-10-16",
+    "time": "09:52",
+    "city": "Термез",
+    "address": "Термез, ул. Юнусабад, 176",
+    "latitude": 37.22347,
+    "longitude": 67.311709,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 10780951,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00118_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00119",
+    "vehicleId": "veh_00116",
+    "date": "2021-02-10",
+    "time": "12:23",
+    "city": "Андижан",
+    "address": "Андижан, ул. Нукус, 54",
+    "latitude": 40.763769,
+    "longitude": 72.303819,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "left_front_door",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 1917933,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00119_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00119_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00120",
+    "vehicleId": "veh_00116",
+    "date": "2018-06-21",
+    "time": "12:45",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Себзор, 57",
+    "latitude": 41.315578,
+    "longitude": 69.224779,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Множественное столкновение в условиях плохой видимости.",
+    "damagedParts": [
+      "right_front_fender",
+      "windshield",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 17154791,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00120_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00120_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00120_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00121",
+    "vehicleId": "veh_00116",
+    "date": "2015-11-06",
+    "time": "16:02",
+    "city": "Андижан",
+    "address": "Андижан, ул. Амира Темура, 164",
+    "latitude": 40.804915,
+    "longitude": 72.315791,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "rear_bumper",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1443450,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00121_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00121_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00122",
+    "vehicleId": "veh_00117",
+    "date": "2026-07-03",
+    "time": "19:10",
+    "city": "Нукус",
+    "address": "Нукус, ул. Себзор, 135",
+    "latitude": 42.442766,
+    "longitude": 59.64765,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "right_rear_door",
+      "windshield"
+    ],
+    "repairEstimateUzs": 7571946,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00122_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00122_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00123",
+    "vehicleId": "veh_00117",
+    "date": "2026-10-19",
+    "time": "07:27",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Мустакиллик, 110",
+    "latitude": 41.282797,
+    "longitude": 69.253468,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1665692,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00123_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00124",
+    "vehicleId": "veh_00117",
+    "date": "2025-06-28",
+    "time": "16:41",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Бунёдкор, 114",
+    "latitude": 39.660789,
+    "longitude": 66.985429,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1054349,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00124_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00125",
+    "vehicleId": "veh_00117",
+    "date": "2025-07-14",
+    "time": "09:48",
+    "city": "Карши",
+    "address": "Карши, ул. Себзор, 78",
+    "latitude": 38.853899,
+    "longitude": 65.814709,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 10118606,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00125_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00126",
+    "vehicleId": "veh_00119",
+    "date": "2024-05-09",
+    "time": "13:36",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 74",
+    "latitude": 41.018806,
+    "longitude": 71.682005,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 9199903,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00126_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00127",
+    "vehicleId": "veh_00120",
+    "date": "2020-07-28",
+    "time": "08:43",
+    "city": "Андижан",
+    "address": "Андижан, ул. Бунёдкор, 172",
+    "latitude": 40.814935,
+    "longitude": 72.316328,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 2616783,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00127_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.455Z",
+    "updatedAt": "2026-09-03T09:17:12.455Z"
+  },
+  {
+    "id": "acc_00128",
+    "vehicleId": "veh_00123",
+    "date": "2026-05-26",
+    "time": "06:14",
+    "city": "Наманган",
+    "address": "Наманган, ул. Бунёдкор, 6",
+    "latitude": 41.020991,
+    "longitude": 71.671867,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "roof",
+      "left_rear_door",
+      "left_front_door"
+    ],
+    "repairEstimateUzs": 4983446,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00128_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00128_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00128_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00129",
+    "vehicleId": "veh_00123",
+    "date": "2025-01-01",
+    "time": "12:35",
+    "city": "Навои",
+    "address": "Навои, ул. Мустакиллик, 103",
+    "latitude": 40.058315,
+    "longitude": 65.381504,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 1824876,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00129_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00130",
+    "vehicleId": "veh_00124",
+    "date": "2022-04-22",
+    "time": "06:29",
+    "city": "Термез",
+    "address": "Термез, ул. Нукус, 46",
+    "latitude": 37.213848,
+    "longitude": 67.238371,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 1067127,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00130_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00131",
+    "vehicleId": "veh_00124",
+    "date": "2022-01-28",
+    "time": "06:04",
+    "city": "Бухара",
+    "address": "Бухара, ул. Юнусабад, 71",
+    "latitude": 39.795479,
+    "longitude": 64.405712,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_rear_fender",
+      "roof"
+    ],
+    "repairEstimateUzs": 3103131,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00131_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00131_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00132",
+    "vehicleId": "veh_00127",
+    "date": "2026-04-17",
+    "time": "21:12",
+    "city": "Навои",
+    "address": "Навои, ул. Амира Темура, 49",
+    "latitude": 40.126487,
+    "longitude": 65.397195,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "ДТП с опрокидыванием на обледенелой дороге.",
+    "damagedParts": [
+      "left_front_fender",
+      "roof",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 29411245,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00132_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00132_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00132_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00133",
+    "vehicleId": "veh_00128",
+    "date": "2026-11-08",
+    "time": "21:59",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 125",
+    "latitude": 40.387145,
+    "longitude": 71.752249,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "right_rear_fender",
+      "left_front_door",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 11691672,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00133_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00133_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00133_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00134",
+    "vehicleId": "veh_00128",
+    "date": "2023-08-17",
+    "time": "15:59",
+    "city": "Фергана",
+    "address": "Фергана, ул. Юнусабад, 22",
+    "latitude": 40.381324,
+    "longitude": 71.761483,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 2353405,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00134_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00135",
+    "vehicleId": "veh_00128",
+    "date": "2026-07-16",
+    "time": "14:01",
+    "city": "Навои",
+    "address": "Навои, ул. Фаргона йули, 97",
+    "latitude": 40.042529,
+    "longitude": 65.400122,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "roof",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 3137245,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00135_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00135_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00136",
+    "vehicleId": "veh_00132",
+    "date": "2024-10-15",
+    "time": "13:56",
+    "city": "Бухара",
+    "address": "Бухара, ул. Нукус, 172",
+    "latitude": 39.775084,
+    "longitude": 64.403307,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "hood",
+      "trunk"
+    ],
+    "repairEstimateUzs": 5127122,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00136_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00136_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00137",
+    "vehicleId": "veh_00138",
+    "date": "2025-08-28",
+    "time": "11:14",
+    "city": "Карши",
+    "address": "Карши, ул. Себзор, 37",
+    "latitude": 38.84074,
+    "longitude": 65.802039,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "roof",
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 3400982,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00137_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00137_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00138",
+    "vehicleId": "veh_00138",
+    "date": "2022-02-21",
+    "time": "11:54",
+    "city": "Нукус",
+    "address": "Нукус, ул. Юнусабад, 68",
+    "latitude": 42.454556,
+    "longitude": 59.654552,
+    "severity": "Тяжёлая",
+    "weather": "Туман",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "left_rear_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 21554923,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00138_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00138_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.456Z",
+    "updatedAt": "2026-09-03T09:17:12.456Z"
+  },
+  {
+    "id": "acc_00139",
+    "vehicleId": "veh_00141",
+    "date": "2019-03-14",
+    "time": "15:33",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 176",
+    "latitude": 40.361641,
+    "longitude": 71.790407,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 2748245,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00139_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00140",
+    "vehicleId": "veh_00143",
+    "date": "2017-09-11",
+    "time": "16:56",
+    "city": "Карши",
+    "address": "Карши, ул. Себзор, 87",
+    "latitude": 38.874468,
+    "longitude": 65.794805,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 966545,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00140_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00141",
+    "vehicleId": "veh_00143",
+    "date": "2016-09-27",
+    "time": "06:23",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Чиланзар, 154",
+    "latitude": 41.332541,
+    "longitude": 69.259421,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 6960525,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00141_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00142",
+    "vehicleId": "veh_00143",
+    "date": "2016-07-25",
+    "time": "16:59",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Фаргона йули, 71",
+    "latitude": 41.277636,
+    "longitude": 69.277421,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "hood"
+    ],
+    "repairEstimateUzs": 3070226,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00142_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00143",
+    "vehicleId": "veh_00145",
+    "date": "2015-08-25",
+    "time": "14:46",
+    "city": "Бухара",
+    "address": "Бухара, ул. Чиланзар, 103",
+    "latitude": 39.7413,
+    "longitude": 64.41208,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "front_bumper",
+      "right_front_door",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 7364716,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00143_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00143_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00143_2",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00144",
+    "vehicleId": "veh_00145",
+    "date": "2022-03-08",
+    "time": "16:53",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 119",
+    "latitude": 39.668031,
+    "longitude": 66.919178,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 2808416,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00144_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00145",
+    "vehicleId": "veh_00145",
+    "date": "2020-05-01",
+    "time": "13:41",
+    "city": "Фергана",
+    "address": "Фергана, ул. Нукус, 46",
+    "latitude": 40.407528,
+    "longitude": 71.788747,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 1156223,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00145_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00146",
+    "vehicleId": "veh_00146",
+    "date": "2025-02-18",
+    "time": "16:41",
+    "city": "Нукус",
+    "address": "Нукус, ул. Себзор, 166",
+    "latitude": 42.471835,
+    "longitude": 59.601785,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "windshield",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 9094279,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00146_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00146_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00147",
+    "vehicleId": "veh_00147",
+    "date": "2018-12-23",
+    "time": "22:34",
+    "city": "Навои",
+    "address": "Навои, ул. Себзор, 70",
+    "latitude": 40.119962,
+    "longitude": 65.409292,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_rear_door",
+      "right_front_fender",
+      "roof"
+    ],
+    "repairEstimateUzs": 26512356,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00147_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00147_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00147_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00148",
+    "vehicleId": "veh_00148",
+    "date": "2016-11-08",
+    "time": "06:52",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 166",
+    "latitude": 41.040154,
+    "longitude": 71.712375,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "ДТП с опрокидыванием на обледенелой дороге.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper",
+      "right_rear_fender",
+      "roof"
+    ],
+    "repairEstimateUzs": 20525270,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00148_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00148_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00148_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00149",
+    "vehicleId": "veh_00150",
+    "date": "2025-06-17",
+    "time": "10:33",
+    "city": "Наманган",
+    "address": "Наманган, ул. Себзор, 180",
+    "latitude": 40.988983,
+    "longitude": 71.704131,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 4762607,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00149_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.457Z",
+    "updatedAt": "2026-09-03T09:17:12.457Z"
+  },
+  {
+    "id": "acc_00150",
+    "vehicleId": "veh_00154",
+    "date": "2023-05-04",
+    "time": "11:44",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 47",
+    "latitude": 41.271281,
+    "longitude": 69.2232,
+    "severity": "Тяжёлая",
+    "weather": "Гололёд",
+    "description": "Лобовое столкновение на загородной трассе, повреждена силовая структура.",
+    "damagedParts": [
+      "left_front_door",
+      "left_rear_fender",
+      "right_front_door",
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 38513999,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00150_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00150_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00150_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.459Z",
+    "updatedAt": "2026-09-03T09:17:12.459Z"
+  },
+  {
+    "id": "acc_00151",
+    "vehicleId": "veh_00156",
+    "date": "2023-06-01",
+    "time": "19:40",
+    "city": "Андижан",
+    "address": "Андижан, ул. Амира Темура, 172",
+    "latitude": 40.77365,
+    "longitude": 72.334876,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "windshield"
+    ],
+    "repairEstimateUzs": 10656563,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00151_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.459Z",
+    "updatedAt": "2026-09-03T09:17:12.459Z"
+  },
+  {
+    "id": "acc_00152",
+    "vehicleId": "veh_00158",
+    "date": "2021-01-19",
+    "time": "14:03",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 98",
+    "latitude": 41.020106,
+    "longitude": 71.684018,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_front_door",
+      "front_bumper",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 4758372,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00152_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00152_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00152_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.459Z",
+    "updatedAt": "2026-09-03T09:17:12.459Z"
+  },
+  {
+    "id": "acc_00153",
+    "vehicleId": "veh_00159",
+    "date": "2017-08-11",
+    "time": "06:02",
+    "city": "Термез",
+    "address": "Термез, ул. Бунёдкор, 107",
+    "latitude": 37.259717,
+    "longitude": 67.298279,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "left_rear_door",
+      "roof"
+    ],
+    "repairEstimateUzs": 7784239,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00153_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00153_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.459Z",
+    "updatedAt": "2026-09-03T09:17:12.459Z"
+  },
+  {
+    "id": "acc_00154",
+    "vehicleId": "veh_00159",
+    "date": "2020-09-01",
+    "time": "08:21",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 49",
+    "latitude": 41.289203,
+    "longitude": 69.260509,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Незначительное касание при парковке, поверхностные царапины.",
+    "damagedParts": [
+      "windshield",
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 3164813,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00154_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00154_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.459Z",
+    "updatedAt": "2026-09-03T09:17:12.459Z"
+  },
+  {
+    "id": "acc_00155",
+    "vehicleId": "veh_00163",
+    "date": "2023-07-11",
+    "time": "20:50",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Фаргона йули, 118",
+    "latitude": 41.2958,
+    "longitude": 69.230127,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "roof"
+    ],
+    "repairEstimateUzs": 3520361,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00155_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00156",
+    "vehicleId": "veh_00163",
+    "date": "2020-09-22",
+    "time": "16:11",
+    "city": "Наманган",
+    "address": "Наманган, ул. Юнусабад, 86",
+    "latitude": 41.007013,
+    "longitude": 71.659394,
+    "severity": "Средняя",
+    "weather": "Дождь",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 5479000,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00156_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00157",
+    "vehicleId": "veh_00163",
+    "date": "2026-08-22",
+    "time": "13:17",
+    "city": "Нукус",
+    "address": "Нукус, ул. Юнусабад, 58",
+    "latitude": 42.418778,
+    "longitude": 59.579612,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 2303872,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00157_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00158",
+    "vehicleId": "veh_00165",
+    "date": "2022-03-01",
+    "time": "15:56",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 148",
+    "latitude": 40.388306,
+    "longitude": 71.769996,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "left_front_door",
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 2590556,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00158_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00158_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00159",
+    "vehicleId": "veh_00165",
+    "date": "2025-09-17",
+    "time": "09:44",
+    "city": "Фергана",
+    "address": "Фергана, ул. Нукус, 8",
+    "latitude": 40.377528,
+    "longitude": 71.764978,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "roof",
+      "front_bumper",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 3781878,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00159_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00159_1",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00159_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00160",
+    "vehicleId": "veh_00165",
+    "date": "2022-08-10",
+    "time": "18:53",
+    "city": "Наманган",
+    "address": "Наманган, ул. Фаргона йули, 77",
+    "latitude": 41.027002,
+    "longitude": 71.656237,
+    "severity": "Тяжёлая",
+    "weather": "Облачно",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "windshield",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 12037462,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00160_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00160_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00160_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.460Z",
+    "updatedAt": "2026-09-03T09:17:12.460Z"
+  },
+  {
+    "id": "acc_00161",
+    "vehicleId": "veh_00166",
+    "date": "2022-04-12",
+    "time": "07:09",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 46",
+    "latitude": 41.045353,
+    "longitude": 71.682992,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "right_rear_fender",
+      "hood",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 3569304,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00161_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00161_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00161_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00162",
+    "vehicleId": "veh_00167",
+    "date": "2023-09-09",
+    "time": "06:56",
+    "city": "Андижан",
+    "address": "Андижан, ул. Бунёдкор, 82",
+    "latitude": 40.779326,
+    "longitude": 72.38294,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper",
+      "roof"
+    ],
+    "repairEstimateUzs": 6969845,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00162_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00162_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00162_2",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00163",
+    "vehicleId": "veh_00169",
+    "date": "2022-05-05",
+    "time": "14:57",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Чиланзар, 180",
+    "latitude": 41.259904,
+    "longitude": 69.21916,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "trunk",
+      "right_rear_door",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 9550982,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00163_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00163_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00163_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00164",
+    "vehicleId": "veh_00171",
+    "date": "2025-02-23",
+    "time": "15:17",
+    "city": "Навои",
+    "address": "Навои, ул. Чиланзар, 10",
+    "latitude": 40.083047,
+    "longitude": 65.349543,
+    "severity": "Тяжёлая",
+    "weather": "Дождь",
+    "description": "Серьёзное столкновение на трассе, значительные повреждения кузова.",
+    "damagedParts": [
+      "right_rear_door",
+      "roof"
+    ],
+    "repairEstimateUzs": 37013612,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00164_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00164_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00165",
+    "vehicleId": "veh_00171",
+    "date": "2023-01-17",
+    "time": "13:57",
+    "city": "Андижан",
+    "address": "Андижан, ул. Юнусабад, 67",
+    "latitude": 40.78956,
+    "longitude": 72.376383,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "right_rear_door"
+    ],
+    "repairEstimateUzs": 3441670,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00165_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00166",
+    "vehicleId": "veh_00171",
+    "date": "2016-06-03",
+    "time": "17:36",
+    "city": "Карши",
+    "address": "Карши, ул. Бунёдкор, 128",
+    "latitude": 38.898917,
+    "longitude": 65.813843,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 6979315,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00166_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00167",
+    "vehicleId": "veh_00174",
+    "date": "2026-02-23",
+    "time": "14:09",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Юнусабад, 127",
+    "latitude": 39.667033,
+    "longitude": 66.949457,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "trunk",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 2697270,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00167_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00167_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00168",
+    "vehicleId": "veh_00175",
+    "date": "2019-01-05",
+    "time": "07:46",
+    "city": "Бухара",
+    "address": "Бухара, ул. Юнусабад, 138",
+    "latitude": 39.733201,
+    "longitude": 64.419888,
+    "severity": "Тяжёлая",
+    "weather": "Туман",
+    "description": "ДТП с опрокидыванием на обледенелой дороге.",
+    "damagedParts": [
+      "left_rear_fender",
+      "rear_bumper",
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 34550526,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00168_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00168_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00168_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00169",
+    "vehicleId": "veh_00175",
+    "date": "2025-09-13",
+    "time": "23:58",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Нукус, 47",
+    "latitude": 39.617838,
+    "longitude": 66.937454,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_rear_door",
+      "roof",
+      "left_rear_fender"
+    ],
+    "repairEstimateUzs": 4650770,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00169_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00169_1",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00169_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.462Z",
+    "updatedAt": "2026-09-03T09:17:12.462Z"
+  },
+  {
+    "id": "acc_00170",
+    "vehicleId": "veh_00176",
+    "date": "2024-02-18",
+    "time": "11:07",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Юнусабад, 122",
+    "latitude": 41.28587,
+    "longitude": 69.224152,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Столкновение при перестроении на городской улице, деформация двери.",
+    "damagedParts": [
+      "front_bumper",
+      "right_front_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 7774850,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00170_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00170_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00170_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00171",
+    "vehicleId": "veh_00176",
+    "date": "2024-01-28",
+    "time": "08:49",
+    "city": "Нукус",
+    "address": "Нукус, ул. Нукус, 5",
+    "latitude": 42.440653,
+    "longitude": 59.572746,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_rear_door",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 3949080,
+    "insuranceCompany": "Ватан Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00171_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00171_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00172",
+    "vehicleId": "veh_00177",
+    "date": "2017-04-21",
+    "time": "20:17",
+    "city": "Бухара",
+    "address": "Бухара, ул. Юнусабад, 91",
+    "latitude": 39.805273,
+    "longitude": 64.412582,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 2322572,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00172_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00172_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00173",
+    "vehicleId": "veh_00179",
+    "date": "2025-11-25",
+    "time": "17:34",
+    "city": "Навои",
+    "address": "Навои, ул. Амира Темура, 151",
+    "latitude": 40.062223,
+    "longitude": 65.380051,
+    "severity": "Лёгкая",
+    "weather": "Ясно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "right_front_door",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 2314134,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00173_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00173_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00174",
+    "vehicleId": "veh_00179",
+    "date": "2024-10-01",
+    "time": "17:39",
+    "city": "Нукус",
+    "address": "Нукус, ул. Мустакиллик, 152",
+    "latitude": 42.417158,
+    "longitude": 59.611404,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "left_front_fender",
+      "trunk"
+    ],
+    "repairEstimateUzs": 2292420,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00174_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00174_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00175",
+    "vehicleId": "veh_00180",
+    "date": "2025-05-05",
+    "time": "15:44",
+    "city": "Нукус",
+    "address": "Нукус, ул. Юнусабад, 35",
+    "latitude": 42.476302,
+    "longitude": 59.596311,
+    "severity": "Средняя",
+    "weather": "Ясно",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "trunk",
+      "right_front_door",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 10789872,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00175_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00175_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00175_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00176",
+    "vehicleId": "veh_00181",
+    "date": "2017-02-05",
+    "time": "20:39",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 44",
+    "latitude": 40.959117,
+    "longitude": 71.661964,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "right_rear_door",
+      "windshield"
+    ],
+    "repairEstimateUzs": 10282984,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00176_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая задняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00176_1",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00177",
+    "vehicleId": "veh_00183",
+    "date": "2017-09-08",
+    "time": "23:45",
+    "city": "Бухара",
+    "address": "Бухара, ул. Нукус, 59",
+    "latitude": 39.743191,
+    "longitude": 64.418047,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "trunk"
+    ],
+    "repairEstimateUzs": 1993518,
+    "insuranceCompany": "Ишонч Life",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00177_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00178",
+    "vehicleId": "veh_00183",
+    "date": "2018-11-02",
+    "time": "10:30",
+    "city": "Бухара",
+    "address": "Бухара, ул. Себзор, 123",
+    "latitude": 39.804725,
+    "longitude": 64.417501,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 1055895,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00178_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00178_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00179",
+    "vehicleId": "veh_00183",
+    "date": "2019-07-08",
+    "time": "07:50",
+    "city": "Карши",
+    "address": "Карши, ул. Бунёдкор, 133",
+    "latitude": 38.840774,
+    "longitude": 65.758752,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "front_bumper"
+    ],
+    "repairEstimateUzs": 1961946,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00179_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00180",
+    "vehicleId": "veh_00183",
+    "date": "2025-05-25",
+    "time": "12:11",
+    "city": "Наманган",
+    "address": "Наманган, ул. Мустакиллик, 146",
+    "latitude": 41.000826,
+    "longitude": 71.712703,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "ДТП на регулируемом перекрёстке, повреждён кузов и оптика.",
+    "damagedParts": [
+      "right_front_door"
+    ],
+    "repairEstimateUzs": 11986482,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00180_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00181",
+    "vehicleId": "veh_00186",
+    "date": "2025-02-07",
+    "time": "22:26",
+    "city": "Бухара",
+    "address": "Бухара, ул. Мустакиллик, 163",
+    "latitude": 39.761462,
+    "longitude": 64.414444,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "front_bumper",
+      "left_front_door"
+    ],
+    "repairEstimateUzs": 11523753,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00181_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00181_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00182",
+    "vehicleId": "veh_00186",
+    "date": "2025-08-15",
+    "time": "18:06",
+    "city": "Термез",
+    "address": "Термез, ул. Бунёдкор, 110",
+    "latitude": 37.219803,
+    "longitude": 67.254481,
+    "severity": "Лёгкая",
+    "weather": "Облачно",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "left_front_fender"
+    ],
+    "repairEstimateUzs": 2971212,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00182_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00182_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.463Z",
+    "updatedAt": "2026-09-03T09:17:12.463Z"
+  },
+  {
+    "id": "acc_00183",
+    "vehicleId": "veh_00190",
+    "date": "2019-06-26",
+    "time": "15:59",
+    "city": "Наманган",
+    "address": "Наманган, ул. Чиланзар, 122",
+    "latitude": 41.035091,
+    "longitude": 71.648903,
+    "severity": "Средняя",
+    "weather": "Туман",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "hood",
+      "rear_bumper",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 8393878,
+    "insuranceCompany": "Нет полиса",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00183_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00183_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00183_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.465Z",
+    "updatedAt": "2026-09-03T09:17:12.465Z"
+  },
+  {
+    "id": "acc_00184",
+    "vehicleId": "veh_00193",
+    "date": "2019-08-14",
+    "time": "15:16",
+    "city": "Ташкент",
+    "address": "Ташкент, ул. Себзор, 16",
+    "latitude": 41.334822,
+    "longitude": 69.274965,
+    "severity": "Лёгкая",
+    "weather": "Гололёд",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "rear_bumper",
+      "hood"
+    ],
+    "repairEstimateUzs": 3237241,
+    "insuranceCompany": "Тинчлик Суғурта",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00184_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00184_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00185",
+    "vehicleId": "veh_00193",
+    "date": "2018-11-02",
+    "time": "06:20",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Амира Темура, 134",
+    "latitude": 39.637639,
+    "longitude": 67.004458,
+    "severity": "Средняя",
+    "weather": "Облачно",
+    "description": "Наезд на препятствие на обочине трассы, требуется ремонт крыла.",
+    "damagedParts": [
+      "left_front_door",
+      "trunk",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 4971236,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00185_0",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00185_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Крышка багажника — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00185_2",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00186",
+    "vehicleId": "veh_00193",
+    "date": "2019-06-05",
+    "time": "18:47",
+    "city": "Фергана",
+    "address": "Фергана, ул. Амира Темура, 31",
+    "latitude": 40.419746,
+    "longitude": 71.750079,
+    "severity": "Лёгкая",
+    "weather": "Дождь",
+    "description": "Царапина от соседнего автомобиля на стоянке торгового центра.",
+    "damagedParts": [
+      "rear_bumper",
+      "right_rear_fender"
+    ],
+    "repairEstimateUzs": 1387320,
+    "insuranceCompany": "Ишонч Life",
+    "status": "Урегулировано",
+    "photos": [
+      {
+        "id": "photo_00186_0",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00186_1",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое заднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00187",
+    "vehicleId": "veh_00195",
+    "date": "2024-06-27",
+    "time": "18:34",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Чиланзар, 94",
+    "latitude": 39.679847,
+    "longitude": 66.954429,
+    "severity": "Лёгкая",
+    "weather": "Туман",
+    "description": "Наезд на бордюр, деформация без нарушения геометрии кузова.",
+    "damagedParts": [
+      "roof",
+      "hood"
+    ],
+    "repairEstimateUzs": 2030210,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00187_0",
+        "url": "/damage-photos/roof-dent.svg",
+        "caption": "Крыша — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00187_1",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00188",
+    "vehicleId": "veh_00195",
+    "date": "2025-03-17",
+    "time": "14:36",
+    "city": "Андижан",
+    "address": "Андижан, ул. Мустакиллик, 124",
+    "latitude": 40.753186,
+    "longitude": 72.305666,
+    "severity": "Средняя",
+    "weather": "Снег",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "hood",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 3768293,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00188_0",
+        "url": "/damage-photos/hood-dent.svg",
+        "caption": "Капот — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00188_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00189",
+    "vehicleId": "veh_00196",
+    "date": "2017-02-07",
+    "time": "17:54",
+    "city": "Самарканд",
+    "address": "Самарканд, ул. Фаргона йули, 153",
+    "latitude": 39.693841,
+    "longitude": 66.951163,
+    "severity": "Тяжёлая",
+    "weather": "Снег",
+    "description": "Множественное столкновение в условиях плохой видимости.",
+    "damagedParts": [
+      "front_bumper",
+      "left_rear_door"
+    ],
+    "repairEstimateUzs": 33205101,
+    "insuranceCompany": "Достлик Суғурта",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00189_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00189_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Левая задняя дверь — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00190",
+    "vehicleId": "veh_00196",
+    "date": "2018-09-19",
+    "time": "09:46",
+    "city": "Андижан",
+    "address": "Андижан, ул. Мустакиллик, 142",
+    "latitude": 40.780836,
+    "longitude": 72.31623,
+    "severity": "Лёгкая",
+    "weather": "Снег",
+    "description": "Лёгкое ДТП на перекрёстке, повреждена только облицовка.",
+    "damagedParts": [
+      "windshield"
+    ],
+    "repairEstimateUzs": 2000864,
+    "insuranceCompany": "Нет полиса",
+    "status": "В процессе",
+    "photos": [
+      {
+        "id": "photo_00190_0",
+        "url": "/damage-photos/windshield-crack.svg",
+        "caption": "Лобовое стекло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00191",
+    "vehicleId": "veh_00198",
+    "date": "2026-10-07",
+    "time": "14:32",
+    "city": "Бухара",
+    "address": "Бухара, ул. Чиланзар, 26",
+    "latitude": 39.777864,
+    "longitude": 64.447349,
+    "severity": "Тяжёлая",
+    "weather": "Ясно",
+    "description": "Множественное столкновение в условиях плохой видимости.",
+    "damagedParts": [
+      "left_front_fender",
+      "right_front_door",
+      "right_front_fender"
+    ],
+    "repairEstimateUzs": 36769101,
+    "insuranceCompany": "Малика Иншуранс",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00191_0",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Левое переднее крыло — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00191_1",
+        "url": "/damage-photos/door-dent.svg",
+        "caption": "Правая передняя дверь — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00191_2",
+        "url": "/damage-photos/fender-scratch.svg",
+        "caption": "Правое переднее крыло — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  },
+  {
+    "id": "acc_00192",
+    "vehicleId": "veh_00200",
+    "date": "2016-08-15",
+    "time": "12:19",
+    "city": "Термез",
+    "address": "Термез, ул. Нукус, 109",
+    "latitude": 37.263663,
+    "longitude": 67.242445,
+    "severity": "Средняя",
+    "weather": "Гололёд",
+    "description": "Боковое столкновение при развороте, деформация панели кузова.",
+    "damagedParts": [
+      "front_bumper",
+      "rear_bumper"
+    ],
+    "repairEstimateUzs": 7664464,
+    "insuranceCompany": "Нет полиса",
+    "status": "Отклонено",
+    "photos": [
+      {
+        "id": "photo_00192_0",
+        "url": "/damage-photos/front-bumper.svg",
+        "caption": "Передний бампер — зафиксированные повреждения"
+      },
+      {
+        "id": "photo_00192_1",
+        "url": "/damage-photos/rear-bumper.svg",
+        "caption": "Задний бампер — зафиксированные повреждения"
+      }
+    ],
+    "createdAt": "2026-09-03T09:17:12.466Z",
+    "updatedAt": "2026-09-03T09:17:12.466Z"
+  }
+]
